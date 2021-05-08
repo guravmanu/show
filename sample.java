@@ -4,6 +4,10 @@ class sample
   {
     System.out.println("hey...");
     System.out.println("welcome");
+
      System.out.println("temperory");
+
+     System.out.println("final");
+
   }
 }
